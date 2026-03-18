@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/homeside-kr/.github/main/assets/logo.png" alt="Homeside Logo" width="180"/>
-
 # 홈사이드 (Homeside)
 
 ### 🏡 AI가 분석하고, 전문가가 동행합니다
